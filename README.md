@@ -3,7 +3,7 @@ A 2-day workflow for high-throughput dna cloning and strain construction in 96-w
 
 ## Insert Construction
 
-* utilizes DASi to generate linear fragments from list of trusted DNA sources
+* utilizes [DASi](https://jvrana.github.io/DASi-DNA-Design/) to generate linear fragments from list of trusted DNA sources
 * list of loci to integrate (or let program choose)
 
 ## Strain Construction
